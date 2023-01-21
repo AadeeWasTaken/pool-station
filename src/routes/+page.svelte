@@ -1,1 +1,7 @@
-<h1 class="text-3xl font-bold underline">Pool Station</h1>
+<script lang="ts">
+	import type { PageData } from './$types';
+
+	export let data: PageData;
+</script>
+
+<h1 class="text-3xl font-bold underline">{data.pools[0].location}</h1>

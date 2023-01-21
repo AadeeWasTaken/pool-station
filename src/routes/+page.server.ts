@@ -1,23 +1,7 @@
 import { error } from "@sveltejs/kit";
 import databaseData from "../database/data.json";
 import type { PageServerLoad } from "./$types";
-
-interface Data {
-    id: number;
-    location: string;
-    population: number;
-    cost: number;
-    interested: number;
-    invested: number;
-}
-
-interface Pool {
-    id: number;
-    location: string;
-    cost: number;
-    interested: number;
-    invested: number;
-}
+import type { Data, Pool } from "../types/data";
 
 export const load = (async () => {
     const data: Data[] = databaseData;
@@ -32,7 +16,6 @@ export const load = (async () => {
         };
     });
 
-    if (pools) return pools;
-
+    if (pools) return { pools: pools };
     throw error(404, "Not Found");
 }) satisfies PageServerLoad;
