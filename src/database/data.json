@@ -3,30 +3,40 @@
 		"location": "andheri",
 		"population": 1469000,
 		"stations": 3,
-		"interested": [12682, 15983, 13229]
+		"cost": [6950000, 7240000, 8010000],
+		"interested": [12682, 15983, 13229],
+		"invested": [3450000, 3720000, 4090000]
 	},
 	{
 		"location": "goregaon",
 		"population": 996563,
 		"stations": 2,
-		"interested": [14768, 11351]
+		"cost": [5620000, 6670000],
+		"interested": [14768, 11351],
+		"invested": [2730000, 3580000]
 	},
 	{
 		"location": "santacruz",
 		"population": 675294,
 		"stations": 1,
-		"interested": [8834]
+		"cost": [4890000],
+		"interested": [8834],
+		"invested": [1956000]
 	},
 	{
 		"location": "parle",
 		"population": 469735,
 		"stations": 1,
-		"interested": [7719]
+		"cost": [5150000],
+		"interested": [7719],
+		"invested": [2060000]
 	},
 	{
 		"location": "bandra",
 		"population": 337452,
 		"stations": 1,
-		"interested": [9928]
+		"cost": [6362000],
+		"interested": [9928],
+		"invested": [2544800]
 	}
 ]
