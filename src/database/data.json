@@ -1,0 +1,32 @@
+[
+	{
+		"location": "andheri",
+		"population": 1469000,
+		"stations": 3,
+		"interested": [12682, 15983, 13229]
+	},
+	{
+		"location": "goregaon",
+		"population": 996563,
+		"stations": 2,
+		"interested": [14768, 11351]
+	},
+	{
+		"location": "santacruz",
+		"population": 675294,
+		"stations": 1,
+		"interested": [8834]
+	},
+	{
+		"location": "parle",
+		"population": 469735,
+		"stations": 1,
+		"interested": [7719]
+	},
+	{
+		"location": "bandra",
+		"population": 337452,
+		"stations": 1,
+		"interested": [9928]
+	}
+]
