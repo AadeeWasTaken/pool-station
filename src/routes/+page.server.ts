@@ -10,6 +10,7 @@ export const load = (async () => {
         return {
             id: d.id,
             location: d.location,
+            image: d.image,
             cost: d.cost,
             interested: d.interested,
             invested: d.invested

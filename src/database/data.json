@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"location": "Andheri",
-		"image": "",
+		"image": "https://res.cloudinary.com/dzpztsqtp/image/upload/v1674357214/Cyber%20Cypher/bandra_pic_hqmkol.jpg",
 		"population": 1469000,
 		"cost": 6950000,
 		"interested": 12682,
@@ -11,7 +11,7 @@
 	{
 		"id": 2,
 		"location": "Andheri",
-		"image": "",
+		"image": "https://res.cloudinary.com/dzpztsqtp/image/upload/v1674358412/Cyber%20Cypher/place_in_and_nhi5v0.jpg",
 		"population": 1469000,
 		"cost": 7240000,
 		"interested": 15983,
@@ -20,7 +20,7 @@
 	{
 		"id": 3,
 		"location": "Andheri",
-		"image": "",
+		"image": "https://res.cloudinary.com/dzpztsqtp/image/upload/v1674358707/Cyber%20Cypher/new_ynrlh1.png",
 		"population": 1469000,
 		"cost": 8010000,
 		"interested": 13229,
@@ -29,7 +29,7 @@
 	{
 		"id": 4,
 		"location": "Goregaon",
-		"image": "",
+		"image": "https://res.cloudinary.com/dzpztsqtp/image/upload/v1674359207/Cyber%20Cypher/newone_e5pug5.png",
 		"population": 996563,
 		"cost": 5620000,
 		"interested": 14768,
@@ -38,7 +38,7 @@
 	{
 		"id": 5,
 		"location": "Goregaon",
-		"image": "",
+		"image": "https://res.cloudinary.com/dzpztsqtp/image/upload/v1674359253/Cyber%20Cypher/place_inandh_2_yi1pvg.jpg",
 		"population": 996563,
 		"cost": 6670000,
 		"interested": 11351,
@@ -47,7 +47,7 @@
 	{
 		"id": 6,
 		"location": "Santacruz",
-		"image": "",
+		"image": "https://res.cloudinary.com/dzpztsqtp/image/upload/v1674357232/Cyber%20Cypher/sant_lnxbe6.jpg",
 		"population": 675294,
 		"cost": 4890000,
 		"interested": 8834,
@@ -56,7 +56,7 @@
 	{
 		"id": 7,
 		"location": "Parle",
-		"image": "",
+		"image": "https://res.cloudinary.com/dzpztsqtp/image/upload/v1674357208/Cyber%20Cypher/and_3_bbudex.jpg",
 		"population": 469735,
 		"cost": 5150000,
 		"interested": 7719,
@@ -65,7 +65,7 @@
 	{
 		"id": 8,
 		"location": "Bandra",
-		"image": "",
+		"image": "https://res.cloudinary.com/dzpztsqtp/image/upload/v1674357219/Cyber%20Cypher/gore_ncqwyq.jpg",
 		"population": 337452,
 		"cost": 6362000,
 		"interested": 9928,
