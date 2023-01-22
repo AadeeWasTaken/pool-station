@@ -1,7 +1,8 @@
 [
 	{
 		"id": 1,
-		"location": "andheri",
+		"location": "Andheri",
+		"image": "",
 		"population": 1469000,
 		"cost": 6950000,
 		"interested": 12682,
@@ -9,7 +10,8 @@
 	},
 	{
 		"id": 2,
-		"location": "andheri",
+		"location": "Andheri",
+		"image": "",
 		"population": 1469000,
 		"cost": 7240000,
 		"interested": 15983,
@@ -17,7 +19,8 @@
 	},
 	{
 		"id": 3,
-		"location": "andheri",
+		"location": "Andheri",
+		"image": "",
 		"population": 1469000,
 		"cost": 8010000,
 		"interested": 13229,
@@ -25,7 +28,8 @@
 	},
 	{
 		"id": 4,
-		"location": "goregaon",
+		"location": "Goregaon",
+		"image": "",
 		"population": 996563,
 		"cost": 5620000,
 		"interested": 14768,
@@ -33,7 +37,8 @@
 	},
 	{
 		"id": 5,
-		"location": "goregaon",
+		"location": "Goregaon",
+		"image": "",
 		"population": 996563,
 		"cost": 6670000,
 		"interested": 11351,
@@ -41,7 +46,8 @@
 	},
 	{
 		"id": 6,
-		"location": "santacruz",
+		"location": "Santacruz",
+		"image": "",
 		"population": 675294,
 		"cost": 4890000,
 		"interested": 8834,
@@ -49,7 +55,8 @@
 	},
 	{
 		"id": 7,
-		"location": "parle",
+		"location": "Parle",
+		"image": "",
 		"population": 469735,
 		"cost": 5150000,
 		"interested": 7719,
@@ -57,7 +64,8 @@
 	},
 	{
 		"id": 8,
-		"location": "bandra",
+		"location": "Bandra",
+		"image": "",
 		"population": 337452,
 		"cost": 6362000,
 		"interested": 9928,
