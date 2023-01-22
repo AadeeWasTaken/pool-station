@@ -4,7 +4,10 @@
 	export let data: PageData;
 </script>
 
-<div>
+<div class="px-48">
+	<div>
+		<p>Pool Station</p>
+	</div>
 	<div class="grid grid-cols-4 gap-y-16">
 		{#each data.pools as pool}
 			<div>
